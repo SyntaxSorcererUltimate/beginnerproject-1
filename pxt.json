@@ -1,5 +1,5 @@
 {
-    "name": "Project #1",
+    "name": "Beginner Project #1: Smiley Face Triggered by Button Press",
     "description": "",
     "dependencies": {
         "core": "*",
