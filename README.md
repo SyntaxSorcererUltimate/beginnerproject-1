@@ -1,4 +1,12 @@
+## Beginner Project #1 with Micro:Bit (Virtual Micro:Bit or Physical One)
 
+The very first Microbit project a Microbit beginner should view and edit. Follow these steps to view and edit:
+
+open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/syntaxsorcererultimate/beginnerproject-1** and click import
+
+>
 > Open this page at [https://syntaxsorcererultimate.github.io/beginnerproject-1/](https://syntaxsorcererultimate.github.io/beginnerproject-1/)
 
 ## Use as Extension
