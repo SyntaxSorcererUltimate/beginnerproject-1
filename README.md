@@ -1,6 +1,6 @@
 ## Beginner Project #1 with Micro:Bit (Virtual Micro:Bit or Physical One)
 
-The very first Microbit project a Microbit beginner should view and edit. Follow these steps to view and edit:
+The very first Microbit project a Microbit beginner should view and edit. This project includes using button presses with the Micro:Bit coding blocks to trigger a smiley face coming on the screen with the A button of the Microbit, and using the B button to clear the screen. Follow these steps to view and edit:
 
 open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
